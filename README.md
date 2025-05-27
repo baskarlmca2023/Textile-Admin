@@ -21,20 +21,17 @@ A modern, responsive admin dashboard built with **React**, **Tailwind CSS**, and
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/baskarlmca2023/Textile-Admin.git
 cd textile-admin
 
-### 2. Install Dependencies
-
-```bash
+2. Install Dependencies
 npm install
 
-### 3. Run the Application
-
-```bash
+3. Run the Application
 npm run dev
 This will start the app at http://localhost:5173
+
+---
 
 ## 🧰 Tech Stack
 
@@ -53,15 +50,16 @@ This will start the app at http://localhost:5173
 
 ## 📂 Project Highlights
 
- ✅ Fully responsive on all devices (Mobile, Tablet, Desktop)
+ - ✅ Fully responsive on all devices (Mobile, Tablet, Desktop)
 
-✅ Modern green-themed admin UI
+ - ✅ Modern green-themed admin UI
 
-✅ Smooth hover animations and transitions
+ - ✅ Smooth hover animations and transitions
 
-✅ Clean code & optimized component structure
+ - ✅ Clean code & optimized component structure
 
-✅ Easy to extend and maintain
+ - ✅ Easy to extend and maintain
+
 
 ##📄 License
 MIT License
