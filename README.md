@@ -61,10 +61,11 @@ This will start the app at http://localhost:5173
  - ✅ Easy to extend and maintain
 
 
-##📄 License
+## 📄 License
 MIT License
 
-##🙌 Author
+## 🙌 Author
 
 Baskar L
+
 Made with ❤️ in 2025
